@@ -1,3 +1,3 @@
 # hello-world
-Just another depository 
-Just learning how to code here!
+ 
+Just learning how to use Git hub here
