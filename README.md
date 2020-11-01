@@ -1,3 +1,3 @@
 # hello-world
- 
-Just learning how to use Git hub here
+ For more details visit www.shootingfilm.co.uk
+
